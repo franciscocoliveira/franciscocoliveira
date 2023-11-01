@@ -1,4 +1,4 @@
 - 👋 Olá, sou Francisco Carlos de Oliveira Júnior
 - 👀 Estou interessado em Desenvolvimento de Software e Cyber Security
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web e Banco de Dados
+- 🌱 Atualmente estou aprendendo Desenvolvimento Web(JavaScript, PHP e Flutter) e Banco de Dados
 - 📫 Entrar em contato comigo por email franciscojunior_sp@hotmail.com
